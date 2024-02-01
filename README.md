@@ -1,5 +1,5 @@
 <h1 align="center">Yoo 👋, I'm Mandar Kamble</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">SDE @Emerson Global Cybersecurity Center pune </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandykamble" alt="mandykamble" /></a> </p>
 
