@@ -1,4 +1,4 @@
-<h1 align="center">Yoo 👋, I'm Mandar Kamble</h1>
+<h1 align="center">Yoo 👋, I'm Mandar Urunkar</h1>
 <h3 align="center">Associate Software Engineer @NCS Group </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandykamble" alt="mandykamble" /></a> </p>
